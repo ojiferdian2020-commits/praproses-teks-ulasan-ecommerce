@@ -28,7 +28,6 @@ Alur kerja:
 ```text
 .
 ├── preprocessing_ulasan_ecommerce.ipynb   # Notebook utama (sudah tereksekusi lengkap)
-├── labeledReview.datasetFix.json          # Dataset sumber, tidak diubah
 ├── requirements.txt                       # Dependensi Python
 ├── .gitignore                             # File yang diabaikan Git
 └── README.md                              # Dokumentasi proyek
